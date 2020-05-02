@@ -20,3 +20,5 @@ Servir:
 Caracteristica 5 R1:
 Empaquetado:
     -no gatusuarios no habren paquetes :v
+
+Fix del cierre inesperado y agua bendita por si XD
