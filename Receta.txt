@@ -12,3 +12,7 @@ Proceso de preparación
 Caracteristica 3 R1:
 Proceso de cocion
     -Colocar la carne a la plancha por 3 min por lado
+
+Caracteristica 4 R1:
+Servir
+    -colocar la carne y la verdura dentro del pan cortado
