@@ -3,3 +3,8 @@ Ingredientes:
     -300 gr carne
     -1 pieza de pan
     -verduras picada
+    
+Caracteristica 2 R1:
+Proceso de preparación
+    -Agarrar la carne y formar un circulo de 2 cm de espesor
+    -Cortar el pan
