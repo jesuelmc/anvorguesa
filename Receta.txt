@@ -8,3 +8,7 @@ Caracteristica 2 R1:
 Proceso de preparación
     -Agarrar la carne y formar un circulo de 2 cm de espesor
     -Cortar el pan
+    
+Caracteristica 3 R1:
+Proceso de cocion
+    -Colocar la carne a la plancha por 3 min por lado
