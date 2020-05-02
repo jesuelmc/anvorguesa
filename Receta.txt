@@ -1,0 +1,22 @@
+Caracteristica 1 R1:
+Ingredientes:
+    -300 gr carne
+    -1 pieza de pan
+    -verduras picada
+    
+Caracteristica 2 R1:
+Proceso de preparación:
+    -Agarrar la carne y formar un circulo de 2 cm de espesor
+    -Cortar el pan
+    
+Caracteristica 3 R1:
+Proceso de cocion:
+    -Colocar la carne a la plancha por 3 min por lado
+
+Caracteristica 4 R1:
+Servir:
+    -colocar la carne y la verdura dentro del pan cortado
+
+Caracteristica 5 R1:
+Empaquetado:
+    -no gatusuarios no habren paquetes :v
