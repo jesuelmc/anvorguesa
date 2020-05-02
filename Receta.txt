@@ -16,3 +16,7 @@ Proceso de cocion
 Caracteristica 4 R1:
 Servir
     -colocar la carne y la verdura dentro del pan cortado
+
+Caracteristica 5 R1:
+Empaquetado:
+    -no gatusuarios no habren paquetes :v
